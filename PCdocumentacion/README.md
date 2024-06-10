@@ -1,3 +1,4 @@
+#Construye una Página de Documentación Técnica
 1. Puedes ver un elemento `main` con su correspondiente `id="main-doc"`, el cual abarcará el contenido principal de la página (documentación técnica).
 2. Dentro del elemento `#main-doc`, se pueden ver varios elementos `section`, cada uno con la clase `main-section`. Debe haber un mínimo de cinco.
 3. El primer elemento dentro de cada `.main-section` debería ser un elemento `header`, el cual contendrá texto que describa el tema de esa sección.
@@ -16,4 +17,4 @@
 
 Completa las historias de usuario y pasa todas las pruebas a continuación para completar este proyecto. Dale tu propio estilo personal. ¡Feliz día programando!
 
-Nota: Asegúrate de agregar <link rel="stylesheet" href="styles.css"> en tu HTML para enlazar tu hoja de estilos y aplicar tu CSS
+Nota: Asegúrate de agregar `<link rel="stylesheet" href="styles.css">` en tu HTML para enlazar tu hoja de estilos y aplicar tu CSS
