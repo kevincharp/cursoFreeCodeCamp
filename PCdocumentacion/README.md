@@ -1,4 +1,4 @@
-#Construye una Página de Documentación Técnica
+# Construye una Página de Documentación Técnica
 1. Puedes ver un elemento `main` con su correspondiente `id="main-doc"`, el cual abarcará el contenido principal de la página (documentación técnica).
 2. Dentro del elemento `#main-doc`, se pueden ver varios elementos `section`, cada uno con la clase `main-section`. Debe haber un mínimo de cinco.
 3. El primer elemento dentro de cada `.main-section` debería ser un elemento `header`, el cual contendrá texto que describa el tema de esa sección.
