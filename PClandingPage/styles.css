@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #eee;
+    font-family: 'Lato', sans-serif;
+}
+
+#page-wrapper {
+    position: relative;
+}
+
+li {
+    list-style: none;
+    border: solid 1px red;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+header {
+    display: flex;
+    align-items: center;
+}
+
+nav>ul {
+    width: 35vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+img {
+    width: 170px;
+}
+
+.elements {
+    display: flex;
+}
+
+.logo-elements {
+    padding: 5px;
+}
